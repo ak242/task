@@ -1,0 +1,15 @@
+Publicaton Date :
+
+#block-views-block-view-noticia-pbh-block-5 div.views-field.views-field-nothing > span > span:nth-child(1) 
+
+Bidding Date :
+
+#block-views-block-view-noticia-pbh-block-5 div.views-field.views-field-nothing > span > span:nth-child(19) 
+
+Object :
+
+#block-views-block-view-noticia-pbh-block-5 div.views-field.views-field-nothing > span > p:first
+
+All links related to the tender :
+
+#block-views-block-view-noticia-pbh-block-5 > div > div > div > div > div > div.views-field.views-field-field-historico-da-licitacao > div > table > tbody > tr > td:nth-child(2) > div > div > h2 > a
